@@ -1,0 +1,1 @@
+INSERT INTO stores VALUES (default, 'Original location!');
