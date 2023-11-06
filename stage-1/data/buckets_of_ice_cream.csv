@@ -1,0 +1,97 @@
+id,flavor,dairy_free,gluten_free
+1,Vanilla,,
+2,Chocolate,,
+3,Strawberry,,
+4,Mint Chocolate Chip,,
+5,Cookies and Cream,,
+6,Rocky Road,,
+7,Butter Pecan,,
+8,Coffee,,
+9,Neapolitan,,
+10,Pistachio,,
+11,Cookie Dough,,
+12,Rainbow Sherbet,,
+13,Chocolate Chip,,
+14,Black Cherry,,
+15,Coconut,,
+16,Peanut Butter Cup,,
+17,Maple Walnut,,
+18,Caramel Swirl,,
+19,Banana Split,,
+20,Dogweed,,
+21,Red Velvet,,
+22,Lemon Sorbet,,
+23,Peppermint,,
+24,Mocha Almond Fudge,,
+25,Tiramisu,,
+26,Blueberry Cheesecake,,
+27,Raspberry Ripple,,
+28,Cinnamon,,
+29,Honey Lavender,,
+30,Green Tea Matcha,,
+31,Bubblegum,,
+32,Almond Joy,,
+33,Vanilla,t,
+34,Chocolate,t,
+35,Strawberry,t,
+36,Mint Chocolate Chip,t,
+37,Cookies and Cream,t,
+38,Rocky Road,t,
+39,Butter Pecan,t,
+40,Coffee,t,
+41,Neapolitan,t,
+42,Pistachio,t,
+43,Cookie Dough,t,
+44,Rainbow Sherbet,t,
+45,Chocolate Chip,t,
+46,Black Cherry,t,
+47,Coconut,t,
+48,Peanut Butter Cup,t,
+49,Maple Walnut,t,
+50,Caramel Swirl,t,
+51,Banana Split,t,
+52,Dogweed,t,
+53,Red Velvet,t,
+54,Lemon Sorbet,t,
+55,Peppermint,t,
+56,Mocha Almond Fudge,t,
+57,Tiramisu,t,
+58,Blueberry Cheesecake,t,
+59,Raspberry Ripple,t,
+60,Cinnamon,t,
+61,Honey Lavender,t,
+62,Green Tea Matcha,t,
+63,Bubblegum,t,
+64,Almond Joy,t,
+65,Vanilla,f,t
+66,Chocolate,f,t
+67,Strawberry,f,t
+68,Mint Chocolate Chip,f,t
+69,Cookies and Cream,f,t
+70,Rocky Road,f,t
+71,Butter Pecan,f,t
+72,Coffee,f,t
+73,Neapolitan,f,t
+74,Pistachio,f,t
+75,Cookie Dough,f,t
+76,Rainbow Sherbet,f,t
+77,Chocolate Chip,f,t
+78,Black Cherry,f,t
+79,Coconut,f,t
+80,Peanut Butter Cup,f,t
+81,Maple Walnut,f,t
+82,Caramel Swirl,f,t
+83,Banana Split,f,t
+84,Dogweed,f,t
+85,Red Velvet,f,t
+86,Lemon Sorbet,f,t
+87,Peppermint,f,t
+88,Mocha Almond Fudge,f,t
+89,Tiramisu,f,t
+90,Blueberry Cheesecake,f,t
+91,Raspberry Ripple,f,t
+92,Cinnamon,f,t
+93,Honey Lavender,f,t
+94,Green Tea Matcha,f,t
+95,Bubblegum,f,t
+96,Almond Joy,f,t

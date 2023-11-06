@@ -1,0 +1,29 @@
+id,date,total_price,num_scoops,flavor,cone
+1,2023-11-04,4.00,2,Vanilla,Sugar
+2,2023-11-05,2.00,1,Chocolate,Sugar
+3,2023-11-06,6.00,3,Strawberry,Waffle
+4,2023-11-07,4.00,2,Mint Chocolate Chip,Sugar
+5,2023-11-08,2.00,1,Cookies and Cream,Waffle
+6,2023-11-09,6.00,3,Rocky Road,Cake
+7,2023-11-10,2.00,1,Butter Pecan,Sugar
+8,2023-11-11,4.00,2,Coffee,Sugar
+9,2023-11-12,2.00,1,Neapolitan,Waffle
+10,2023-11-13,6.00,3,Pistachio,Sugar
+11,2023-11-14,4.00,2,Cookie Dough,Waffle
+12,2023-11-15,2.00,1,Rainbow Sherbet,Cake
+13,2023-11-16,4.00,2,Chocolate Chip,Sugar
+14,2023-11-17,6.00,3,Black Cherry,Waffle (Gluten-Free)
+15,2023-11-18,2.00,1,"Coconut (Dairy-Free, Gluten-Free)",Sugar
+16,2023-11-19,4.00,2,Peanut Butter Cup,Sugar
+17,2023-11-20,6.00,3,Maple Walnut,Waffle (Gluten-Free)
+18,2023-11-21,2.00,1,Caramel Swirl,Cake
+19,2023-11-22,6.00,3,Banana Split,Waffle (Gluten-Free)
+20,2023-11-23,4.00,2,Dogweed,Sugar
+21,2023-11-24,4.00,2,Red Velvet,Waffle (Gluten-Free)
+22,2023-11-25,2.00,1,"Lemon Sorbet (Dairy-Free, Gluten-Free)",Sugar
+23,2023-11-26,4.00,2,Peppermint,Cake
+24,2023-11-27,6.00,3,Mocha Almond Fudge,Waffle
+25,2023-11-28,2.00,1,Tiramisu,Sugar
+26,2023-11-29,6.00,3,Blueberry Cheesecake,Sugar
+27,2023-11-30,2.00,1,Raspberry Ripple,Waffle
+28,2023-11-30,4.00,2,Cinnamon,Cake
